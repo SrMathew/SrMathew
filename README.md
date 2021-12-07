@@ -1,16 +1,16 @@
-### Hi there 👋
+### I'm Mathew  👋
 
-<!--
-**SrMathew/SrMathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full stack developer and a lover of literature and technology 🤓. I love being able to solve people problems or improve their processes.
+I currently work as a partner at Octosoft Professionals while i'm studying software engineering at university.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning:
+- Solidity and DApp development to be up-to-date with trendy and exciting technologies 😄😄
+- Product Management because i am passionate about collaborating with teammates to achieve big goals and create incredible solutions 💪
+
+
+## 🌎 You can find me:
+
+  - Linkedin 💬 :   https://www.linkedin.com/in/mateo-cornejo/
+    
+  - Mail 📫:        mateoh.cornejo@gmail.com
