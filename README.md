@@ -1,11 +1,11 @@
 ### I'm Mathew  👋
 
 I'm a full stack developer and a lover of literature and technology 🤓. I love being able to solve people problems or improve their processes.
-I currently work as a partner at Octosoft Professionals while i'm studying software engineering at university.
+I currently study software engineering at ITBA.
 
 
 ## 🌱 I’m currently learning:
-- Solidity and DApp development to be up-to-date with trendy and exciting technologies 😄😄
+- Negotiation skills to make good deals, from agreeing the project fee to improving the collaboration with coworkers
 - Product Management because i am passionate about collaborating with teammates to achieve big goals and create incredible solutions 💪
 
 
